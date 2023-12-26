@@ -59,7 +59,7 @@ class TrioXYZ
     public virtual void PrintClass()
     {
         Console.WriteLine($"x: {x}, y: {y}, z: {z}");
-    }
+}
 }
 class TrioXYZABC : TrioXYZ
 {
